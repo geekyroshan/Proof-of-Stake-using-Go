@@ -36,4 +36,4 @@ This repository contains a Proof of Stake (PoS) algorithm implemented in Go. PoS
 
 To run the application:
 ```sh
-go run main.go
+go run *.go
